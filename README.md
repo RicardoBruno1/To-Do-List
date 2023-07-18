@@ -1,6 +1,6 @@
 # To-Do-List
 
-projeto iniciante de lista de tarefas (To Do List) desenvolvido com ReactJS.
+Projeto iniciante de lista de tarefas (To Do List) desenvolvido com ReactJS.
 
 # Descrição do projeto
 
